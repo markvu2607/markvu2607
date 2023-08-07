@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/markvu2607"><img src="https://api.daily.dev/devcards/866abc962c65440b8adfe730a54da783.png?r=rl9" width="400" alt="Mark Vu's Dev Card"/></a>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64524e51b60f0a3ce2fcc10b?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64524e51b60f0a3ce2fcc10b?variant=dark" alt="roadmap.sh"/></a>
