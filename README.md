@@ -25,3 +25,7 @@
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64524e51b60f0a3ce2fcc10b?variant=dark" alt="roadmap.sh"/></a>
 
 ![snake gif](https://github.com/markvu2607/markvu2607/blob/output/github-snake.svg)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Mark Vu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=markvu2607&custom_title=Mark%20Vu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
