@@ -1,22 +1,16 @@
-<!--
-**markvu2607/markvu2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Mark Vu</h1>
+<h3 align="center">A software engineer from Hanoi, Vietnam</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=300&lines=Knowledge+is+power!" alt="Typing SVG" /></a>
+<br>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markvu2607.markvu2607" />
+  <a href="https://wakatime.com/@018c3ea6-017f-46ea-9154-31e83444d070"><img src="https://wakatime.com/badge/user/018c3ea6-017f-46ea-9154-31e83444d070.svg" alt="Total time coded since Dec 6 2023" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=markvu2607.markvu2607" />
-
-<a href="https://wakatime.com/@018c3ea6-017f-46ea-9154-31e83444d070"><img src="https://wakatime.com/badge/user/018c3ea6-017f-46ea-9154-31e83444d070.svg" alt="Total time coded since Dec 6 2023" /></a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F769BB&random=false&width=435&lines=Hello+world!" alt="Typing SVG" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://skillicons.dev/icons?i=nextjs,js,html,css" />
 
