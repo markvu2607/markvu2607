@@ -20,7 +20,7 @@
 
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=markvu2607&langs_count=8&layout=compact&theme=react&border_radius=0&size_weight=0.5&count_weight=0.5" alt="readme stats" />
 
-<a href="https://app.daily.dev/markvu2607"><img src="https://api.daily.dev/devcards/866abc962c65440b8adfe730a54da783.png?r=0" width="400" alt="Mark Vu's Dev Card"/></a>
+<a href="https://app.daily.dev/markvu2607"><img src="https://api.daily.dev/devcards/866abc962c65440b8adfe730a54da783.png?r=ama" width="300" alt="Mark Vu's Dev Card"/></a>
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64524e51b60f0a3ce2fcc10b?variant=dark" alt="roadmap.sh"/></a>
 
