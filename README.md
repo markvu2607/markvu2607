@@ -24,6 +24,8 @@
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64524e51b60f0a3ce2fcc10b?variant=dark" alt="roadmap.sh"/></a>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ![snake gif](https://github.com/markvu2607/markvu2607/blob/output/github-snake.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
