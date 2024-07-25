@@ -21,7 +21,7 @@ markvu2607
              d                          markvu2607@github
             ,MK:                        ------------------------------------
             xMMMX:
-           .NMMMMMX;                    👨‍💻 I’m currently working at QSoft.
+           .NMMMMMX;
            lMMMMMMMM0clodkO0KXWW:
            KMMMMMMMMMMMMMMMMMMX'        🌟 Main languages: Javascript, Typescript.
       .;d0NMMMMMMMMMMMMMMMMMMK.
@@ -49,27 +49,27 @@ markvu2607
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind" />
   </a>
 </p>
-<!--
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
-</p> -->
-<!--
+</p>
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
-</p> -->
-<!--
+</p>
+
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,supabase" />
   </a>
-</p> -->
+</p>
 
 - Tools
 <p align="left">
