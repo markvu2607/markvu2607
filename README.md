@@ -90,6 +90,12 @@ markvu2607
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/markvu2607?theme=dark&font=Inter&ext=heatmap" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ![snake gif](https://github.com/markvu2607/markvu2607/blob/output/github-snake.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
