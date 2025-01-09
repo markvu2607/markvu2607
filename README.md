@@ -41,42 +41,10 @@ markvu2607
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgresql,mongodb,aws,git,github,docker,figma,vscode,postman,linux" />
 </p>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,supabase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
-  </a>
-</p>
 <!--
 <img src="https://streak-stats.demolab.com?user=markvu2607&count_private=true&theme=dark&border_radius=0" alt="GitHub Streak" /> -->
 <!--
